@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Mi TV 5X",
+    "price": 72188,
+    "featured": false,
+    "rating": 4.1,
+    "createdAt": "2025-03-12T11:11:43.410256",
+    "company": "dell"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 84695,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2025-04-15T11:11:43.410278",
+    "company": "samsung"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 107879,
+    "featured": true,
+    "rating": 4.5,
+    "createdAt": "2025-02-25T11:11:43.410288",
+    "company": "mi"
+  },
+  {
+    "name": "Samsung Watch",
+    "price": 87106,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2024-11-18T11:11:43.410296",
+    "company": "apple"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 10187,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2025-03-26T11:11:43.410308",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Watch",
+    "price": 10407,
+    "featured": false,
+    "rating": 4.1,
+    "createdAt": "2024-07-17T11:11:43.410315",
+    "company": "dell"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 24530,
+    "featured": false,
+    "rating": 4.3,
+    "createdAt": "2025-04-22T11:11:43.410322",
+    "company": "apple"
+  },
+  {
+    "name": "Dell Latitude",
+    "price": 112910,
+    "featured": false,
+    "rating": 4.4,
+    "createdAt": "2024-11-03T11:11:43.410332",
+    "company": "apple"
+  },
+  {
+    "name": "Mi TV 5X",
+    "price": 69211,
+    "featured": true,
+    "rating": 4.4,
+    "createdAt": "2024-10-16T11:11:43.410340",
+    "company": "dell"
+  },
+  {
+    "name": "iPhone SE",
+    "price": 116541,
+    "featured": false,
+    "rating": 4.6,
+    "createdAt": "2025-01-31T11:11:43.410364",
+    "company": "apple"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 32807,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2024-07-02T11:11:43.410382",
+    "company": "samsung"
+  },
+  {
+    "name": "Dell XPS",
+    "price": 56918,
+    "featured": true,
+    "rating": 4.8,
+    "createdAt": "2025-02-01T11:11:43.410388",
+    "company": "apple"
+  },
+  {
+    "name": "Samsung Watch",
+    "price": 123862,
+    "featured": false,
+    "rating": 4.7,
+    "createdAt": "2024-05-19T11:11:43.410395",
+    "company": "mi"
+  },
+  {
+    "name": "Galaxy S22",
+    "price": 107905,
+    "featured": true,
+    "rating": 4.7,
+    "createdAt": "2024-12-05T11:11:43.410400",
+    "company": "mi"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 120866,
+    "featured": true,
+    "rating": 4.3,
+    "createdAt": "2025-04-11T11:11:43.410406",
+    "company": "mi"
+  },
+  {
+    "name": "Mi Band 6",
+    "price": 38592,
+    "featured": false,
+    "rating": 4.8,
+    "createdAt": "2024-12-19T11:11:43.410411",
+    "company": "mi"
+  },
+  {
+    "name": "Dell Inspiron",
+    "price": 125459,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2024-07-07T11:11:43.410418",
+    "company": "apple"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 14151,
+    "featured": false,
+    "rating": 4.9,
+    "createdAt": "2025-02-14T11:11:43.410427",
+    "company": "apple"
+  },
+  {
+    "name": "iPhone SE",
+    "price": 120495,
+    "featured": false,
+    "rating": 4.4,
+    "createdAt": "2024-09-11T11:11:43.410437",
+    "company": "apple"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 104209,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2025-02-07T11:11:43.410457",
+    "company": "dell"
+  },
+  {
+    "name": "iPad Pro",
+    "price": 148323,
+    "featured": true,
+    "rating": 4.3,
+    "createdAt": "2024-08-03T11:11:43.410471",
+    "company": "mi"
+  },
+  {
+    "name": "Galaxy M31",
+    "price": 140515,
+    "featured": true,
+    "rating": 4.3,
+    "createdAt": "2024-09-01T11:11:43.410478",
+    "company": "mi"
+  },
+  {
+    "name": "Mi Pad 5",
+    "price": 108328,
+    "featured": true,
+    "rating": 4.4,
+    "createdAt": "2025-03-06T11:11:43.410487",
+    "company": "samsung"
+  },
+  {
+    "name": "Dell Latitude",
+    "price": 42311,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2024-11-24T11:11:43.410496",
+    "company": "samsung"
+  },
+  {
+    "name": "Galaxy M31",
+    "price": 122228,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2025-04-21T11:11:43.410506",
+    "company": "dell"
+  },
+  {
+    "name": "iPhone 14",
+    "price": 10058,
+    "featured": false,
+    "rating": 5.0,
+    "createdAt": "2024-10-28T11:11:43.410525",
+    "company": "dell"
+  },
+  {
+    "name": "Galaxy S22",
+    "price": 128135,
+    "featured": true,
+    "rating": 5.0,
+    "createdAt": "2024-09-28T11:11:43.410534",
+    "company": "dell"
+  },
+  {
+    "name": "Mi Band 6",
+    "price": 141476,
+    "featured": true,
+    "rating": 4.4,
+    "createdAt": "2025-04-19T11:11:43.410540",
+    "company": "dell"
+  },
+  {
+    "name": "Galaxy S22",
+    "price": 122804,
+    "featured": false,
+    "rating": 4.5,
+    "createdAt": "2024-07-03T11:11:43.410545",
+    "company": "apple"
+  },
+  {
+    "name": "Mi Band 6",
+    "price": 51243,
+    "featured": false,
+    "rating": 4.2,
+    "createdAt": "2025-03-08T11:11:43.410551",
+    "company": "dell"
+  }
+]
